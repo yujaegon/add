@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/yoo90/Desktop/coding/c_c
+# Install script for directory: C:/Users/yoo90/Desktop/coding/code/c_c
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/yoo90/Desktop/coding/c_c/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/yoo90/Desktop/coding/code/c_c/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

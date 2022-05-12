@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/yoo90/Desktop/coding/c_c/cmake-build-debug",
-		"source" : "C:/Users/yoo90/Desktop/coding/c_c"
+		"build" : "C:/Users/yoo90/Desktop/coding/code/c_c/cmake-build-debug",
+		"source" : "C:/Users/yoo90/Desktop/coding/code/c_c"
 	},
 	"version" : 
 	{
